@@ -16,19 +16,6 @@ Hair Health Status Checker is a machine learning based web application that eval
 - NumPy
 - HTML & CSS
 
-## Project Structure
-
-project/
-│
-├── app.py # Flask application
-├── model.pkl # Trained machine learning model
-├── model.py # Model training script
-├── templates/
-│ └── index.html # Frontend interface
-├── static/
-│ └── css/style.css # Styling
-└── README.md
-
 ## How It Works
 1. The user enters hair-related lifestyle factors such as sleep hours, nutrition level, and stress level.
 2. The input data is sent to the Flask backend.
